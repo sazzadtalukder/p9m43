@@ -1,0 +1,93 @@
+[
+    {
+      "recipe_name": "Spicy Garlic Chicken",
+      "recipe_id": 1,
+      "recipe_image": "https://i.ibb.co.com/7NXHhp8/image.png/rbVjJ6f/1.jpg",
+      "short_description": "A flavorful chicken dish with a spicy garlic sauce.",
+      "ingredients": [
+        "550 g chicken",
+        "3 cloves garlic",
+        "120 ml soy sauce",
+        "50 g chili flakes",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_name": "Vegetarian Basil Pasta",
+      "recipe_id": 2,
+      "recipe_image": "https://i.ibb.co.com/cLmzbGQ/image.png",
+      "short_description": "A fresh and vibrant pasta dish with basil and veggies.",
+      "ingredients": [
+        "200 g pasta",
+        "200 g basil leaf",
+        "100 g cherry tomatoes",
+        "2 tbsp olive oil",
+        "50 g grated Parmesan"
+      ],
+      "preparing_time": "25 min",
+      "calories": "280 calories"
+    },
+    {
+      "recipe_name": "Creamy Mushroom Soup",
+      "recipe_id": 3,
+      "recipe_image": "https://i.ibb.co.com/cLmzbGQ/image.png",
+      "short_description": "A warm and creamy soup packed with mushroom flavor.",
+      "ingredients": [
+        "400 g mushroom",
+        "250 ml cream",
+        "500 ml chicken broth",
+        "1 onion",
+        "2 tbsp butter"
+      ],
+      "preparing_time": "40 min",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_name": "Grilled Lemon Salmon",
+      "recipe_id": 4,
+      "recipe_image": "https://i.ibb.co.com/cLmzbGQ/image.png",
+      "short_description": "A simple and healthy grilled salmon recipe with lemon zest.",
+      "ingredients": [
+        "2 salmon fillets",
+        "1 lemon",
+        "2 tbsp olive oil",
+        "1 tsp black pepper",
+        "1 tsp salt"
+      ],
+      "preparing_time": "20 min",
+      "calories": "400 calories"
+    },
+    {
+      "recipe_name": "Classic Beef Tacos",
+      "recipe_id": 5,
+      "recipe_image": "https://i.ibb.co.com/cLmzbGQ/image.png",
+      "short_description": "Classic beef tacos with a savory, seasoned filling.",
+      "ingredients": [
+        "300 g ground beef",
+        "100 g shredded lettuce",
+        "50 g grated cheddar",
+        "4 taco shells",
+        "2 tbsp taco seasoning"
+      ],
+      "preparing_time": "20 min",
+      "calories": "360 calories"
+    },
+    {
+      "recipe_name": "Avocado Toast",
+      "recipe_id": 6,
+      "recipe_image": "https://i.ibb.co.com/cLmzbGQ/image.png",
+      "short_description": "A quick and healthy avocado toast with a hint of lime.",
+      "ingredients": [
+        "2 slices whole-grain bread",
+        "1 avocado",
+        "1 lime",
+        "1 tsp chili flakes",
+        "1 pinch salt"
+      ],
+      "preparing_time": "10 min",
+      "calories": "250 calories"
+    }
+  ]
+  
